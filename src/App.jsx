@@ -1,5 +1,5 @@
 import Header from "./components/Header/Header";
-import Hero from "./components/Hero.jsx";
+import Hero from "./components/Hero/Hero.jsx";
 import "../App.css"
 import Companies from "./components/companies/Companies";
 import Residencies from "./Residencies/Residencies";
